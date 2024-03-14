@@ -1,0 +1,103 @@
+0:00.000: 0:00.000: Child 2 Message 0
+0:01.000: 0:01.001: Child 1 Message 0
+0:01.000: 0:01.001: Child 2 Message 1
+0:02.000: 0:02.001: Child 3 Message 0
+0:02.001: 0:02.001: Child 4 Message 0
+0:02.001: 0:02.002: Child 2 Message 2
+0:02.223: 0:02.225: Child 0 Message 0: hello
+0:03.000: 0:03.002: Child 1 Message 1
+0:03.002: 0:03.003: Child 2 Message 3
+0:03.002: 0:03.003: Child 2 Message 4
+0:04.001: 0:04.002: Child 3 Message 1
+0:04.002: 0:04.002: Child 4 Message 1
+0:04.002: 0:04.002: Child 4 Message 2
+0:04.002: 0:04.002: Child 4 Message 4
+0:04.003: 0:04.004: Child 2 Message 7
+0:04.003: 0:04.004: Child 2 Message 8
+0:05.824: 0:04.826: Child 0 Message 1: asdfasdfasdfasdf
+0:05.001: 0:05.003: Child 1 Message 2
+0:05.002: 0:05.002: Child 3 Message 4
+0:05.003: 0:05.003: Child 4 Message 5
+0:06.002: 0:06.004: Child 1 Message 3
+0:06.002: 0:06.003: Child 3 Message 5
+0:06.004: 0:06.005: Child 2 Message 10
+0:07.003: 0:07.004: Child 3 Message 6
+0:07.004: 0:07.004: Child 4 Message 6
+0:07.005: 0:07.006: Child 2 Message 11
+0:07.761: 0:07.763: Child 0 Message 2: asdfasdfasdfasdfasdf
+0:08.003: 0:08.005: Child 1 Message 4
+0:08.007: 0:08.008: Child 2 Message 14
+0:09.004: 0:09.005: Child 3 Message 7
+0:09.004: 0:09.005: Child 4 Message 9
+0:10.004: 0:10.006: Child 1 Message 6
+0:10.008: 0:10.009: Child 2 Message 15
+0:11.005: 0:11.006: Child 3 Message 8
+0:11.006: 0:11.006: Child 4 Message 12
+0:12.005: 0:12.006: Child 1 Message 7
+0:12.006: 0:12.007: Child 3 Message 9
+0:12.006: 0:12.007: Child 4 Message 13
+0:12.007: 0:12.007: Child 3 Message 11
+0:12.008: 0:12.009: Child 2 Message 16
+0:13.006: 0:13.007: Child 1 Message 8
+0:13.008: 0:13.008: Child 4 Message 15
+0:14.930: 0:13.931: Child 0 Message 3: asdfasdfsadfasdfasdfasdfasdfasdfasdfasdfbnnnn
+0:14.008: 0:14.008: Child 3 Message 12
+0:14.009: 0:14.010: Child 2 Message 17
+0:14.009: 0:14.010: Child 2 Message 18
+0:15.007: 0:15.008: Child 1 Message 10
+0:15.008: 0:15.009: Child 4 Message 16
+0:15.009: 0:15.009: Child 3 Message 13
+0:15.010: 0:15.011: Child 2 Message 19
+0:17.008: 0:17.009: Child 1 Message 12
+0:17.010: 0:17.010: Child 3 Message 15
+0:17.010: 0:17.010: Child 4 Message 17
+0:17.010: 0:17.010: Child 3 Message 16
+0:17.011: 0:17.012: Child 2 Message 20
+0:18.011: 0:18.011: Child 4 Message 18
+0:18.011: 0:18.012: Child 2 Message 22
+0:19.009: 0:19.011: Child 1 Message 14
+0:19.011: 0:19.011: Child 3 Message 17
+0:19.739: 0:19.741: Child 0 Message 4: lllllllsadfkkkkkkkkkkkkkasdfkkksadf
+0:20.010: 0:20.012: Child 1 Message 15
+0:20.012: 0:20.012: Child 3 Message 18
+0:20.012: 0:20.012: Child 4 Message 19
+0:20.012: 0:20.013: Child 2 Message 23
+0:21.010: 0:21.012: Child 1 Message 16
+0:21.013: 0:21.013: Child 4 Message 20
+0:22.011: 0:22.013: Child 1 Message 17
+0:22.012: 0:22.013: Child 3 Message 19
+0:22.013: 0:22.014: Child 2 Message 25
+0:22.014: 0:22.014: Child 4 Message 21
+0:22.014: 0:22.014: Child 4 Message 22
+0:23.012: 0:23.014: Child 1 Message 18
+0:23.013: 0:23.014: Child 3 Message 20
+0:23.014: 0:23.015: Child 2 Message 26
+0:23.015: 0:23.015: Child 4 Message 23
+0:24.013: 0:24.015: Child 1 Message 20
+0:24.013: 0:24.014: Child 3 Message 21
+0:24.015: 0:24.016: Child 2 Message 27
+0:24.015: 0:24.015: Child 4 Message 24
+0:25.867: 0:24.869: Child 0 Message 5: asdfklasdflalsdfkasdlfksdflaskdfjsadfasd
+0:25.016: 0:25.017: Child 2 Message 28
+0:26.014: 0:26.014: Child 3 Message 22
+0:26.014: 0:26.016: Child 1 Message 22
+0:26.016: 0:26.016: Child 4 Message 25
+0:26.017: 0:26.018: Child 2 Message 30
+0:27.015: 0:27.017: Child 1 Message 23
+0:27.017: 0:27.017: Child 4 Message 26
+0:28.015: 0:28.015: Child 3 Message 24
+0:28.018: 0:28.019: Child 2 Message 31
+0:28.018: 0:28.019: Child 2 Message 32
+0:29.016: 0:29.018: Child 1 Message 27
+0:29.018: 0:29.018: Child 4 Message 27
+0:29.018: 0:29.019: Child 2 Message 34
+0:30.016: 0:30.017: Child 3 Message 25
+0:30.017: 0:30.019: Child 1 Message 28
+0:30.019: 0:30.019: Child 4 Message 28
+0:30.019: 0:30.020: Child 2 DONE
+0:31.868: 0:30.870: Child 0 HAS CLOSED THE PIPE
+0:31.017: 0:31.018: Child 3 Message 26
+0:31.018: 0:31.020: Child 1 DONE
+0:31.020: 0:31.020: Child 4 Message 29
+0:32.018: 0:32.019: Child 3 DONE
+0:33.021: 0:33.021: Child 4 DONE
